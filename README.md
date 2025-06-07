@@ -1,6 +1,6 @@
 # Harm Reduction Plugin
 
-A Vencord plugin providing substance information and safety resources directly in Discord.
+A custom Vencord plugin providing substance information and safety resources directly in Discord.
 
 ## Features
 
@@ -26,9 +26,7 @@ Access through Vencord plugin settings:
 
 ## Disclaimer
 
-Educational purposes only. Not medical advice.
-
-Emergency: US 911 | UK 999 | EU 112 | Poison Control 1-800-222-1222
+This is for Harm Reduction & Educational purposes only. Not medical advice.
 
 ## License
 
