@@ -1,12 +1,13 @@
-# Harm Reduction Plugin
+# HarmReduced Plugin
 
-A custom Vencord plugin providing substance information and safety resources directly in Discord.
+A custom Vencord plugin providing substance information and safety resources directly in Discord for harm reductionists alike.
+
 
 ## Features
 
 - **Substance Database**: Search hundreds of substances with dosage, effects, and safety data
 - **Harm Reduction Info**: Testing practices, emergency protocols, safety guidelines
-- **Interactive Interface**: Real-time search, category filtering, responsive design
+- **Modern & Fluid Interface**: Real-time search, category filtering, responsive design
 
 ## Usage
 
@@ -28,6 +29,3 @@ Access through Vencord plugin settings:
 
 This is for Harm Reduction & Educational purposes only. Not medical advice.
 
-## License
-
-GPL-3.0
